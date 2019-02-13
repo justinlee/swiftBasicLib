@@ -1,5 +1,6 @@
 import Foundation
 import Alamofire
+import InterparkPushLib_iOS
 
 /*
  public enum HTTPMethod: String {

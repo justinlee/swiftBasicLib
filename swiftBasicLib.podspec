@@ -37,4 +37,5 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'Alamofire', '~> 4.7'
+  s.dependency 'InterparkPushLib-iOS', git: 'http://git.ticketpark.com/N11280/InterparkPushLib-iOS.git', tag: '0.1.0'
 end

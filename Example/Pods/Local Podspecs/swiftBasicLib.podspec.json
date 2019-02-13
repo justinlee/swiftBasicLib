@@ -1,0 +1,22 @@
+{
+  "name": "swiftBasicLib",
+  "version": "0.1.0",
+  "summary": "A short description of swiftBasicLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Justin Lee/swiftBasicLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Justin Lee": "justin@interpark.com"
+  },
+  "source": {
+    "git": "https://github.com/Justin Lee/swiftBasicLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "swiftBasicLib/Classes/**/*"
+}

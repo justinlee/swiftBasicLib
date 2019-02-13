@@ -1,0 +1,16 @@
+PODS:
+  - swiftBasicLib (0.1.0)
+
+DEPENDENCIES:
+  - swiftBasicLib (from `../`)
+
+EXTERNAL SOURCES:
+  swiftBasicLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  swiftBasicLib: d77078af25c90cbada2f32d13fe3a53504fca356
+
+PODFILE CHECKSUM: 2d260d693efdd544d204895b564f331239231b7f
+
+COCOAPODS: 1.6.0

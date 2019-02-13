@@ -1,0 +1,6 @@
+framework module swiftBasicLib {
+  umbrella header "swiftBasicLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
